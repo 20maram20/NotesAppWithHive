@@ -1,5 +1,5 @@
 
-```
+
 # Notes App with Hive
 
 A simple notes application built using Flutter and Hive for local storage. This app allows users to create, read, update, and delete notes seamlessly.
@@ -45,11 +45,6 @@ Make sure you have Flutter installed on your machine. You can download it from [
 - Tap on the '+' button to create a new note.
 - Edit an existing note by tapping on it.
 - Swipe left on a note to delete it.
-
-## Screenshots
-
-![Screenshot 1](link_to_screenshot_1)
-![Screenshot 2](link_to_screenshot_2)
 
 ## Contributing
 
